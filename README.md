@@ -1,3 +1,4 @@
+
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
@@ -48,16 +49,23 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-
+<img width="1280" height="1128" alt="WhatsApp Image 2026-10-23 at 7 43 57 PM" src="https://github.com/user-attachments/assets/fb4fceef-24d3-4bf5-b540-eb893c77df2e" />
 Tabulation for Load Test:
+<img width="1261" height="1303" alt="WhatsApp Image 2026-10-23 at 7 43 57 PM (1)" src="https://github.com/user-attachments/assets/2b4fdb60-b861-44af-bedf-62b839da9efb" />
 
-Model graph:
+Model graph:<img width="1600" height="921" alt="WhatsApp Image 2026-10-23 at 7 43 57 PM (2)" src="https://github.com/user-attachments/assets/1fac5ab5-b694-43b0-9227-8d8bcf9c7313" />
+<img width="1516" height="1440" alt="WhatsApp Image 2026-10-23 at 7 43 57 PM (3)" src="https://github.com/user-attachments/assets/4f70b5b5-df12-4a99-980f-987fa1c7be77" />
+
 Calculation: 
 
 Open circuit characteristics
+<img width="1280" height="528" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM" src="https://github.com/user-attachments/assets/43a973c3-5214-4ec0-9bb2-973c32d2536e" />
+<img width="1280" height="557" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (1)" src="https://github.com/user-attachments/assets/ec019161-f45e-4b76-b4b1-848c7376b17d" />
 
   
 Load Characteristics:
- 
+ <img width="1280" height="555" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (2)" src="https://github.com/user-attachments/assets/ebc6550b-9322-474f-b8d9-0b57be42a792" />
+<img width="1600" height="543" alt="WhatsApp Image 2026-10-23 at 7 43 59 PM" src="https://github.com/user-attachments/assets/ca29ce56-96a5-4dc2-8b89-54f7d94829c5" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
